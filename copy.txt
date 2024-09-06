@@ -1,0 +1,210 @@
+HTML :
+it is hypertext markup language used for to develop static web pages.
+html is a basic program to learn other web programming languages.
+html support 2 types tags.
+They are
+1.paired tags(ex:<html>(opening)(</html>(closing)
+2.unpaired tags
+
+======================
+test.html(<!---the below program is an example of proper nesting html program
+Formatting tags:
+===================
+html supports basically 2 types of formatting tags
+1.physical tags
+2.logical tags
+=====================
+1.physical tags:
+<html>
+<head>
+<title>physical tags in html </title>
+</head>
+<body>
+<!---bold tag-->
+<b>vagdevi college </b>
+<!--ITALIC TAG-->
+<i>vaagdevi college</i>
+<!--underline -->
+<u>vaagdevi college</u><br>
+<!--strike through--><br>
+<s>vaagdevi college</s><br>
+<!--superscript-->
+a<sup>2</sup>+b<sup>2</sup>+c<br>
+<!--subscript-->
+H<sub>2</sub>SO<sub>4</sub><br>
+</body>
+</html>
+
+List in html program:
+=====================
+3 Types 
+1.order list
+2.unordered list
+3.definition list
+
+write a program on order list:
+=============
+<html>
+<head>
+<title>order list program</title>
+</head>
+<body>
+<ol type="I">
+<li>central processing unit </li>
+<li>Memory unit</li>
+<li>Arithematic Logic Unit</li>
+</ol>
+</body>
+</html>
+
+2.unordered list:====
+<html>
+<head>
+<title> unordered list</title>
+</head>
+<body>
+<ul type="desc">
+<li>central processing unit </li>
+<li>Memory unit</li>
+<li>Arithematic Logic Unit</li>
+</ul>
+</body>
+</html>
+note:it is called as bullet list
+
+3.definition list:
+================
+<html>
+<head>
+<title> definition list</title>
+</head>
+<body>
+<dl type="desc">
+<dt>central processing unit </dt>
+<dd>Memory unit</dd>
+</dl>
+</body>
+</html>
+
+
+Anchor tag:
+===================
+<html>
+<head>
+<title> hyperlink tag</title>
+</head>
+<body>
+<a href ="List.html">click here</a>
+</body>
+</html>
+
+Image tag:
+===================
+Images are diferent types of extensions ...
+1.jpg or jpeg(joint photographic images)
+2.gif(graphical 
+3.bmp(bit map images)
+
+table tag:
+===========
+<html>
+<body>
+<table border="2">
+<tr>
+<th>1st Hour</th>
+<th>2nd Hour</th>
+<th>3rd Hour </th>
+</tr>
+<tr>
+<td>
+<td>CyberSecurity</td>
+<td>Artificial Intelligence</td>
+<td>Quantum Computing</td>
+</tr></table></body></html>
+
+ex 2:
+===============
+<html>
+<body>
+<table border=2>
+<thead>
+<th>1st Hour</th>
+<th>2nd Hour</th>
+<th>3rd Hour</th>
+</thead>
+<tbody>
+<td>CS</td>
+<td>AI</td>
+<td>QC<td>
+</tbody></table>
+</body>
+</html>
+
+form tags in html:
+==============
+Note:Form tag consists multiple other elements They are 
+1.input box(text box)
+2.checkBox
+3.radio
+4.text area Box
+5.submit
+6.reset
+7.selection Box
+8.password
+9.number
+10.label
+...........................
+<html>
+<body>
+<form>
+<center><h2>Student Bio-Data Form</h2></center>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
